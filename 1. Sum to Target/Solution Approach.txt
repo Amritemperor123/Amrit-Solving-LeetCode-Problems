@@ -1,0 +1,3 @@
+Pick an element from the array, and then find the next that adds up to the target.
+
+Plain and Simple.
