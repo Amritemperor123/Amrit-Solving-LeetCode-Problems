@@ -1,0 +1,9 @@
+Use the two-pointer approach.
+
+Take a pointer at the beginning of the array, and take one at the end.
+Increment the first, decrement the last. 
+Take the minimum value of them. Multiply that with their distance.
+
+Store the product in a seperate array or list.
+
+Find the maximum on the new list.
