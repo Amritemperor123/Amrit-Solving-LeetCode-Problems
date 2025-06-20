@@ -1,1 +1,0 @@
-The array is already sorted, so check if the nect element is equal to the current element of the array. 

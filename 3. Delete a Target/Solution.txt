@@ -1,1 +1,0 @@
-Keep updating the index till you find the target element. At that time, show the updated index. That's the output.
